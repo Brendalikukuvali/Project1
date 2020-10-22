@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+body{
+ /*background-image: url(https://www.kl-marathon.com/media/uploads/1%20charity%201%20page/sejahtera%202016/yayasan_sejahtera_logo.png);
+ background-repeat: no-repeat;
+ width: 100px;
+ background-size: cover;*/
+}
+
+.header{
+	height: 30vh;
+}
+
+.navbar-style{
+	box-shadow: 0 5px 10px #efefef;
+	text-transform: uppercase;
+
+}
+
+ icon-bar{
+	background:darkorange;
+}
+
+li a{
+  color: #000;
+  font-weight: bold;
+  
+}
+
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding:30px;
+  margin-left: 20px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
+
+.big-text{
+	font-size: 52px;
+	margin: 20px 0;
+	color: darkorange;
+	font-weight: bold;
+	margin-left: 20px;
+}
+a.btn{
+	margin: 30px 10px;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+	background-color: darkorange;
+	color: #fff;
+	font-weight: bold;
+
+}
+h1{
+	text-align: center;
+	color: darkorange;
+	font-family: sans-serif;
+	padding-top: 10px;
+}
+
+img{
+	text-align: center;
+	width: 800px;
+	height: 450px;
+	float: left;
+	padding-top: 20px;
+}
+
+	
+.cont float-right{
+	padding-top: 10px;
+	padding-bottom:70px; 
+
+}
+
+.banner-image{
+	margin: 30px 0;
+
+}
+
+.banner-para{
+	margin-left: 10px;
+	margin-top:10px; 
+	float: right;
+} 
+
+.about-section{
+	margin-right: 0px;
+	padding-top: 30px;
+
+}
+.about{
+	color: darkorange;
+}
+
+.container-style{
+	box-shadow: 0 5px 10px #efefef;
+}
+
+.cont-style{
+	box-shadow: 0 5px 10px #efefef;
+}
